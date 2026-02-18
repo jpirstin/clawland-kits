@@ -1,6 +1,6 @@
 # Clawland Kits
 
-**Open hardware sensor kit designs — BOMs, wiring diagrams, drivers, and pre-built images for edge AI monitoring scenarios.**
+**Open hardware sensor kit designs — BOMs, wiring diagrams, drivers, and pre-built images for edge monitoring scenarios.**
 
 > Part of the [Clawland](https://github.com/Clawland-AI) ecosystem.
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Clawland Kits provides **ready-to-build hardware recipes** that pair Claw agents with sensors to replace expensive human monitoring jobs. Each kit includes a complete Bill of Materials, wiring diagram, driver code, and PicClaw skill configuration.
+Clawland Kits provides **ready-to-build hardware recipes** that pair smart controllers with sensors to replace expensive human monitoring jobs. Each kit includes a complete Bill of Materials, wiring diagram, driver code, and PicClaw skill configuration.
 
 ## Available Kits
 
